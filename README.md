@@ -6,8 +6,10 @@ For our planning we really only had a rough idea of a plan per say. We knew we h
 
 # Images and Videos
 ![WIN_20230130_15_15_34_Pro](https://user-images.githubusercontent.com/71406784/216708005-1a48c74b-902f-4250-b6ba-4a320e8df95a.jpg)
+(all the lazer cut parts we used for the projet setting out)
 
 ![WIN_20230130_15_16_32_Pro](https://user-images.githubusercontent.com/71406784/216708013-ea3af834-308b-46c2-a769-1af261489e62.jpg)
+(Chris holding up are rubber band grabbing mechinism we used to pick up the ping pong ball)
 
 ![Screenshot 2023-03-10 151436](https://user-images.githubusercontent.com/71406784/224419123-5a04b894-4155-4c1d-9c21-99cb2b80ea5a.png)
 
