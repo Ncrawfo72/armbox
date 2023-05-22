@@ -8,8 +8,6 @@ For our planning we really only had a rough idea of a plan per say. We knew we h
 
 ![WIN_20230130_15_16_32_Pro](https://user-images.githubusercontent.com/71406784/216708013-ea3af834-308b-46c2-a769-1af261489e62.jpg)
 
-![WIN_20230130_15_17_07_Pro](https://user-images.githubusercontent.com/71406784/216708019-9c5c536e-f08e-460b-a5d1-a88bf794d68d.jpg)
-
 ![WIN_20230130_15_17_13_Pro](https://user-images.githubusercontent.com/71406784/216708025-a9427c3f-2bbc-4665-b73c-2790705b03f5.jpg)
 
 ![WIN_20230130_15_17_23_Pro](https://user-images.githubusercontent.com/71406784/216708029-d1aba0f0-2a14-448c-81c1-5dd367c8cbf8.jpg)
