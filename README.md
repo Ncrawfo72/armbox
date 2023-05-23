@@ -39,6 +39,7 @@ Our planning would be a bit of wishful thinking as I (chris) would get sick twic
 ![Screenshot 2023-03-10 151436](https://user-images.githubusercontent.com/71406784/224419123-5a04b894-4155-4c1d-9c21-99cb2b80ea5a.png)
 (All of our lazer cut parts ready to be lzaer cut)
 ![mygif](https://github.com/cprocino/armbox/blob/master/media/ezgif-2-b9d27cdedb.gif)
+
 (The robot arm swinging around wildly note that this is very sped up)
 
 ## wiring 
