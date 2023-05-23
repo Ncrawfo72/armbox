@@ -35,10 +35,11 @@ Our planning would be a bit of wishful thinking as I (chris) would get sick twic
 ![WIN_20230130_15_15_34_Pro](https://user-images.githubusercontent.com/71406784/216708005-1a48c74b-902f-4250-b6ba-4a320e8df95a.jpg)
 (All of our lazer cut parts layed out on a desk)
 ![WIN_20230130_15_16_32_Pro](https://user-images.githubusercontent.com/71406784/216708013-ea3af834-308b-46c2-a769-1af261489e62.jpg)
-
+(Our custom way of picking up the ping pong ball with our rubber band design)
 ![Screenshot 2023-03-10 151436](https://user-images.githubusercontent.com/71406784/224419123-5a04b894-4155-4c1d-9c21-99cb2b80ea5a.png)
-
+(All of our lazer cut parts ready to be lzaer cut)
 ![mygif](https://github.com/cprocino/armbox/blob/master/media/ezgif-2-b9d27cdedb.gif)
+(The robot arm swinging around wildly note that this is very sped up)
 
 ## wiring 
 
